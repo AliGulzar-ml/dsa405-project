@@ -1,2 +1,2 @@
-# dsa405-projec
+# dsa405-project
 DSA405 Project Repository
