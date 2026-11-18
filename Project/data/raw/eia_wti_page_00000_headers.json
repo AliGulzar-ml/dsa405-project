@@ -1,0 +1,6 @@
+{
+  "http_status": 200,
+  "x-ratelimit-limit": "10",
+  "x-ratelimit-remaining": "9",
+  "response_date": "Wed, 18 Nov 2026 21:59:06 GMT"
+}
